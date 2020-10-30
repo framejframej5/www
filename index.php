@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>My First Heading</h1>
-        <p>MY First Paragraph</p>
+        <p>นาย พสุธา จันทร์มณี เฟรม</p>
         <img src="cat.jpg"
         <br>
         <a href="http://www.it.kmitl.ac.th">this is a Link</a>
