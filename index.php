@@ -1,6 +1,3 @@
-<?php
-echo "<h2>PHP is Fun!<h/2>";
-echo "Hello World!<br>";
 <html>
     <head>
         <title>Hello world</title>
@@ -21,4 +18,3 @@ echo "Hello World!<br>";
 
     </body>
 </html>
-?>
