@@ -11,7 +11,7 @@
         <br>
         <a href="https://www.dotabuff.com/">this is a Link</a>
 
-        <h2>The unordered list</h2>
+        <h2>เรื่องตลกที่ผมก็อปมาจากเน็ต</h2>
         <ul>
             <li>ครู : นร.จะเลือกอะไร ระหว่างเงิน กับสมอง</li>
             <li>นร. : หนูเลือกเงินค่ะ</li>
